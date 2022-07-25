@@ -3,7 +3,7 @@
     <title>Grus</title>
     <link href="https://aveistol.github.io/grus/feed.xml" rel="self" />
     <link href="https://aveistol.github.io/grus" />
-    <updated>2022-07-12T11:35:21+03:00</updated>
+    <updated>2022-07-25T16:02:53+03:00</updated>
     <author>
         <name>Grus</name>
     </author>
@@ -18,10 +18,10 @@
         <id>https://aveistol.github.io/grus/work/</id>
             <category term="Work"/>
 
-        <updated>2022-07-12T11:35:21+03:00</updated>
+        <updated>2022-07-16T00:33:19+03:00</updated>
             <summary>
                 <![CDATA[
-                    This is the landing page for the “Work” section of the website. Below, there will be links to specific post pages about different subjects. A brief description of travel journals, etc. A brief description of haiku and links by year. A brief description and links&hellip;
+                    This is the landing page for the “Work” section of the website. Below, there will be links to specific post pages about different subjects. A&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -30,8 +30,8 @@
 <p>Below, there will be links to specific post pages about different subjects.</p>
 <h3 id="travel-journals">Travel journals</h3>
 <p>A brief description of travel journals, etc.</p>
-<h3 id="haiku">Haiku</h3>
-<p>A brief description of haiku and links by year.</p>
+<h3 id="writing">Writing</h3>
+<p>A brief description of my “creative” writing with links arranged by year.</p>
 <h3 id="photography">Photography</h3>
 <p>A brief description and links by category.</p>
 <h3 id="music">Music</h3>
@@ -87,24 +87,26 @@ Colophon</p>
         </content>
     </entry>
     <entry>
-        <title>Welcome to the grebe zone</title>
+        <title>Warning</title>
         <author>
             <name>Grus</name>
         </author>
         <link href="https://aveistol.github.io/grus/cool-things/"/>
         <id>https://aveistol.github.io/grus/cool-things/</id>
 
-        <updated>2022-07-11T21:39:43+03:00</updated>
+        <updated>2022-07-25T16:02:53+03:00</updated>
             <summary>
                 <![CDATA[
-                    Would you please look at this boy!! It’s a wonderful grebe!
+                    You are entering the GREBE ZONE Would you please look at this boy!!? It’s a wonderful grebe!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Would you <em>please</em> look at this boy!!
-<figure class="post__image"><img loading="lazy" src="https://aveistol.github.io/grus/media/posts/1/mustakurkku2.png" sizes="100vw" srcset="https://aveistol.github.io/grus/media/posts/1/responsive/mustakurkku2-xs.png 300w ,https://aveistol.github.io/grus/media/posts/1/responsive/mustakurkku2-sm.png 480w ,https://aveistol.github.io/grus/media/posts/1/responsive/mustakurkku2-md.png 768w ,https://aveistol.github.io/grus/media/posts/1/responsive/mustakurkku2-lg.png 1024w ,https://aveistol.github.io/grus/media/posts/1/responsive/mustakurkku2-xl.png 1360w ,https://aveistol.github.io/grus/media/posts/1/responsive/mustakurkku2-2xl.png 1600w"  alt="It&#39;s the grebe of your dreams!" width="2285" height="2285" /></figure></p>
-<h1 id="its-a-wonderful-grebe">It’s a wonderful grebe!</h1>
+                <h2 id="you-are-entering-the">You are entering the</h2>
+<h2 id="grebe-zone"><em>GREBE ZONE</em></h2>
+<p>Would you <em>please</em> look at this boy!!?</p>
+<p><figure class="post__image"><img loading="lazy" src="https://aveistol.github.io/grus/media/posts/1/mustakurkku2.png" sizes="(max-width: 768px) 100vw, 768px" srcset="https://aveistol.github.io/grus/media/posts/1/responsive/mustakurkku2-xs.png 300w ,https://aveistol.github.io/grus/media/posts/1/responsive/mustakurkku2-sm.png 480w ,https://aveistol.github.io/grus/media/posts/1/responsive/mustakurkku2-md.png 768w"  alt="Grebe" width="2285" height="2285" /></figure></p>
+<h2 id="its-a-wonderful-grebe">It’s a wonderful grebe!</h2>
 
             ]]>
         </content>
